@@ -12,9 +12,9 @@ Sourced from [Kaggle](https://www.kaggle.com), originally scraped from Zepto's o
 | `sku_id` | Unique identifier per product (synthetic primary key) |
 | `name` | Product name as shown on the app |
 | `category` | Product category (Fruits, Snacks, Beverages, etc.) |
-| `mrp` | Maximum Retail Price (converted from paise to ₹) |
+| `mrp` | Maximum Retail Price  |
 | `discountPercent` | Discount applied on MRP |
-| `discountedSellingPrice` | Final price after discount (converted from paise to ₹) |
+| `discountedSellingPrice` | Final price after discount  |
 | `availableQuantity` | Units available in inventory |
 | `weightInGms` | Product weight in grams |
 | `outOfStock` | Boolean flag for stock availability |
