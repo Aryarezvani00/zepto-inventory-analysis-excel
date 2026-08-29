@@ -4,7 +4,7 @@ Data cleaning and analysis of Zepto's product listing data in Excel, identifying
 
 ## Dataset
 
-Sourced from [Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv)), originally scraped from Zepto's official product listings.
+Sourced from [Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv), originally scraped from Zepto's official product listings.
 
 **Columns:**
 | Column | Description |
