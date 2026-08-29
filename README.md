@@ -9,7 +9,7 @@ Sourced from [Kaggle](https://www.kaggle.com), originally scraped from Zepto's o
 **Columns:**
 | Column | Description |
 |---|---|
-| `sku_id` | Unique identifier per product (synthetic primary key) |
+| `sku_id` | Unique identifier per product |
 | `name` | Product name as shown on the app |
 | `category` | Product category (Fruits, Snacks, Beverages, etc.) |
 | `mrp` | Maximum Retail Price  |
