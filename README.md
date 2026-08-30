@@ -36,11 +36,12 @@ Sourced from [Kaggle](https://www.kaggle.com/datasets/palvinder2006/zepto-invent
 **1. High-MRP products currently out of stock**
 Built a PivotTable/PivotChart filtered to `outOfStock = TRUE`, ranking products by average MRP to surface the highest-value items currently unavailable. Top result: **Patanjali Cow's Ghee**, with the highest average MRP (5.65) among out-of-stock products — a clear candidate for restocking priority given its price point.
 
-**2. Total inventory weight per category**
+**2. Top 5 categories by average discount**
+Ranked categories by average `discountPercent`. Fruits & Vegetables leads with a ~15.5% average discount, notably higher than the next closest category (Meats, Fish & Eggs at ~11%).
+
+**3. Total inventory weight per category**
 Summed `total inventory weight` grouped by category. Cooking Essentials and Munchies carry by far the heaviest total inventory (~1.4M grams each), well above every other category.
 
-**3. Top 5 categories by average discount**
-Ranked categories by average `discountPercent`. Fruits & Vegetables leads with a ~15.5% average discount, notably higher than the next closest category (Meats, Fish & Eggs at ~11%).
 
 Each task includes a PivotTable and an accompanying PivotChart for visual comparison.
 
