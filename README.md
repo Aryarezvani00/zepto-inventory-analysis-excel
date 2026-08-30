@@ -48,8 +48,3 @@ Each task includes a PivotTable and an accompanying PivotChart for visual compar
 ## Tools
 
 `Microsoft Excel` — PivotTables, PivotCharts, Paste Special, nested `IF` formulas, Remove Duplicates
-
-## What I'd Explore Next
-
-- Cross-reference at-risk-of-stockout products (low `availableQuantity`) against their discount level, to see if heavily discounted items are also running low
-- Break down inventory weight by `weight group` (low/medium/bulk) instead of just by category, for a warehousing/logistics angle
