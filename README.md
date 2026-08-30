@@ -17,7 +17,7 @@ Sourced from [Kaggle](https://www.kaggle.com/datasets/palvinder2006/zepto-invent
 | `discountedSellingPrice` | Final price after discount  |
 | `availableQuantity` | Units available in inventory |
 | `weightInGms` | Product weight in grams |
-| `outOfStock` | Boolean flag for stock availability |
+| `outOfStock` | Stock availability |
 | `quantity` | Units per package (mixed with grams for loose produce) |
 
 ## Data Cleaning
