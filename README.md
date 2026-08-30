@@ -10,7 +10,7 @@ Sourced from [Kaggle](https://www.kaggle.com/datasets/palvinder2006/zepto-invent
 | Column | Description |
 |---|---|
 | `sku_id` | Unique identifier per product |
-| `name` | Product name as shown on the app |
+| `name` | Product name |
 | `category` | Product category (Fruits, Snacks, Beverages, etc.) |
 | `mrp` | Maximum Retail Price  |
 | `discountPercent` | Discount applied on MRP |
